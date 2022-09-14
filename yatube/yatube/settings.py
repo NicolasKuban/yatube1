@@ -31,8 +31,11 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+#    'metrolog',
+#    'practice',
+    'practice2',
     'posts',
-    'events',
+#    'events',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
